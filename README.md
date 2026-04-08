@@ -47,8 +47,4 @@ To build predictive models for estimating car prices using regression techniques
 
 ---
 
-## 📌 Bonus
 
-Added brand-level visualizations and error analysis.
-
----
